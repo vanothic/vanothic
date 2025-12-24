@@ -1,15 +1,5 @@
 <p align="center">A Backend Engineer passionate about building scalable and high-performance systems.</p>
 
----
-
-### 💻 Tech Stack
-
-**Languages:** Go, PHP, JavaScript (Node.js) <br>
-**Frameworks:** Laravel, Express.js, Fiber <br>
-**Databases:** PostgreSQL, MySQL, Redis <br>
-**Tools:** Docker, Git, GitHub Actions <br>
-
----
 
 ### 🚀 Focus
 
